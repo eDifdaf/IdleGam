@@ -26,20 +26,6 @@ Built with **Svelte** for a fast and responsive frontend, and **ASP.NET Core** f
 - **Backend**: ASP.NET Core  
 - **Database**: SQL Server  
 - **Real-time updates**: SignalR  
-- **Hosting**: Self-hosted on a home server  
+- **Hosting**: Self-hosted
 
 ---
-
-### **Getting Started**  
-1. Clone the repository.  
-2. Set up the backend and database using the provided scripts.  
-3. Run the Svelte app and start playing!  
-
----
-
-### **Contributing**  
-Contributions are welcome! Feel free to open issues or submit pull requests.  
-
----
-
-Let me know if you'd like to tweak this further!
